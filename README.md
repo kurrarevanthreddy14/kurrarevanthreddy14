@@ -1,6 +1,4 @@
-
 <h1 align="center">Hi, I'm Revanth <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"/></h1>
-
 
 📌 Aspiring Data Analyst  
 📍 Based in Munich, Germany  
@@ -18,18 +16,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Web%20Scraping-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kurrarevanthreddy14&theme=radical" alt="GitHub Streak"/>
-  <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=kurrarevanthreddy14&theme=monokai&row=1&column=6" alt="GitHub Trophies"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=kurrarevanthreddy14&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
