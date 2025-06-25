@@ -1,10 +1,34 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kurrarevanthreddy14&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kurrarevanthreddy14&show_icons=true&locale=en" alt="Revanth's github stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kurrarevanthreddy14" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kurrarevanthreddy14&layout=compact" alt="Top Langs" />
+</p>
 # 👋 Hi, I'm Revanth Reddy Kurra
 
 🎯 Aspiring Data Analyst | 📍 Based in Munich, Germany  
 🔍 Turning raw data into real-world insights with Python, SQL, and BI tools
 
 ---
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="tableau" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="powerbi" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+</p>
 
+---
 ## 🚀 About Me
 
 I'm a results-driven data analyst with a background in software development and a passion for solving real-world problems using data.  
@@ -42,6 +66,10 @@ Built a Python scraper with `requests` + `BeautifulSoup` that crawls 50 pages of
 ### 4. 📈 Market Basket & Customer Segmentation
 Clustered customers using RFM, applied Market Basket Analysis with Apriori, and gave strategy insights — all in Python.  
 
+---
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
 
 ---
 
