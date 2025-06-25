@@ -1,5 +1,6 @@
 
-<h1 align="center">👋 Hi, I'm Revanth</h1>
+<h1 align="center">Hi, I'm Revanth <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"/></h1>
+
 
 📌 Aspiring Data Analyst  
 📍 Based in Munich, Germany  
