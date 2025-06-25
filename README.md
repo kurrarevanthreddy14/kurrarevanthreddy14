@@ -23,25 +23,25 @@ I specialize in:
 
 ### 1. 📊 Retail Sales Dashboard (Python + Tableau)
 End-to-end data analysis: cleaned a raw dataset with Python and built an interactive Tableau dashboard to show KPIs like sales by region, top products, and profit margins.  
-🔗 [View Dashboard](https://public.tableau.com/app/profile/revanth.reddy.kurra/vizzes) | [GitHub Repo](https://github.com/kurrarevanthreddy14) *(link to actual repo)*
+🔗 [View Dashboard](https://public.tableau.com/app/profile/revanth.reddy.kurra/vizzes) 
 
 ---
 
 ### 2. 🧮 Advanced SQL Business Insights (Northwind)
 Wrote complex SQL queries to solve real business questions using the Northwind dataset. Highlights include multi-table joins, subqueries, and aggregate metrics.  
-🔗 [GitHub Repo](https://github.com/kurrarevanthreddy14) *(link to SQL repo)*
+
 
 ---
 
 ### 3. 🔍 Web Scraping: 1,000 Books from the Web
 Built a Python scraper with `requests` + `BeautifulSoup` that crawls 50 pages of a book store and collects a full dataset. Demonstrates data acquisition + pagination handling.  
-🔗 [GitHub Repo](https://github.com/kurrarevanthreddy14) *(link to web scraping repo)*
+
 
 ---
 
 ### 4. 📈 Market Basket & Customer Segmentation
 Clustered customers using RFM, applied Market Basket Analysis with Apriori, and gave strategy insights — all in Python.  
-🔗 [GitHub Repo](https://github.com/kurrarevanthreddy14) *(link to clustering project)*
+
 
 ---
 
