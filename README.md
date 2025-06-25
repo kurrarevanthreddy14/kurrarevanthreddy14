@@ -1,22 +1,22 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kurrarevanthreddy14&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kurrarevanthreddy14&show_icons=true&locale=en" alt="Revanth's github stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kurrarevanthreddy14" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kurrarevanthreddy14&layout=compact" alt="Top Langs" />
-</p>
-# 👋 Hi, I'm Revanth Reddy Kurra
-
+# 👋 Hi, I'm Revanth...
 🎯 Aspiring Data Analyst | 📍 Based in Munich, Germany  
 🔍 Turning raw data into real-world insights with Python, SQL, and BI tools
+
+<!-- Tech Icons -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  ...icon images...
+</p>
+
+<!-- Stats Widgets -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kurrarevanthreddy14&label=Profile%20views..." />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kurrarevanthreddy14..." />
+</p>
+... etc ...
+
 
 ---
 <h3 align="left">Languages and Tools:</h3>
