@@ -1,5 +1,5 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I'm Revanth!
 
+<h1 align="center">👋 Hi, I'm Revanth</h1>
 
 📌 Aspiring Data Analyst  
 📍 Based in Munich, Germany  
@@ -15,6 +15,8 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Scraping-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
@@ -45,8 +47,11 @@ I'm a results-driven data analyst with a background in software development and 
 
 ## 🧰 Featured Projects
 
-- 📊 [Retail Sales Dashboard](https://github.com/kurrarevanthreddy14/Retail_Sales_Dashboard) – KPI dashboard using Tableau
-- 📈 [Python Diwali Sales Analysis](https://github.com/kurrarevanthreddy14/Python_Diwali_Sales_Analysis) – EDA using Python, pandas, seaborn
+- 📊 [Retail Sales Dashboard](https://github.com/kurrarevanthreddy14/Retail_Sales_Dashboard)  
+  ‣ Built a dynamic KPI dashboard using Tableau for retail sales data.
+
+- 📈 [Python Diwali Sales Analysis](https://github.com/kurrarevanthreddy14/Python_Diwali_Sales_Analysis)  
+  ‣ Performed exploratory data analysis (EDA) using Python, pandas, and seaborn.
 
 ---
 
@@ -59,10 +64,12 @@ I'm a results-driven data analyst with a background in software development and 
 
 ## 📬 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/revanth-reddy-kurra-6b632a2b6/)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/revanth-reddy-kurra-6b632a2b6/)
 - 📧 kurrarevanthreddy14@gmail.com
 
 ---
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=kurrarevanthreddy14&label=Profile%20views&color=0e75b6&style=flat)
 
 Thanks for visiting! 🚀
 
